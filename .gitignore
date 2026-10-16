@@ -1,0 +1,12 @@
+appSettings.secrets.config
+bin/
+obj/
+.vs/
+packages/
+*.user
+
+Tests/Unit/bin/
+Tests/Unit/obj/
+Tests/Unit/testlogs/
+
+App_Data/logs/
